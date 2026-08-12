@@ -1,16 +1,3 @@
-# Maven build output
-target/
-
-# Eclipse
-.settings/
-.classpath
-.project
-bin/
-
-# IntelliJ
-.idea/
-*.iml
-
 # OS
 Thumbs.db
 .DS_Store
